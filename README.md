@@ -8,5 +8,7 @@ Para rodar o código em python, que está na pasta "blockchain":
 </ol>
 
 Mensagens em formato .json conforme solicitado.
+
 Foram utilizadas 10 threads para encontrar a seed.
+
 Uso do broker Mosquitto MQTT com mqttBroker = '127.0.0.1'
